@@ -1,0 +1,537 @@
+{
+    "name": "places/ChIJLWThwA6iToYR6lWaWceUkwU",
+    "id": "ChIJLWThwA6iToYR6lWaWceUkwU",
+    "types": [
+      "consultant",
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "(214) 330-4682",
+    "internationalPhoneNumber": "+1 214-330-4682",
+    "formattedAddress": "8140 Walnut Hill Ln #430, Dallas, TX 75231, USA",
+    "addressComponents": [
+      {
+        "longText": "430",
+        "shortText": "430",
+        "types": [
+          "subpremise"
+        ],
+        "languageCode": "en"
+      },
+      {
+        "longText": "8140",
+        "shortText": "8140",
+        "types": [
+          "street_number"
+        ],
+        "languageCode": "en-US"
+      },
+      {
+        "longText": "Walnut Hill Lane",
+        "shortText": "Walnut Hill Ln",
+        "types": [
+          "route"
+        ],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Vickery Meadow",
+        "shortText": "Vickery Meadow",
+        "types": [
+          "neighborhood",
+          "political"
+        ],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Dallas",
+        "shortText": "Dallas",
+        "types": [
+          "locality",
+          "political"
+        ],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Dallas County",
+        "shortText": "Dallas County",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "languageCode": "en"
+      },
+      {
+        "longText": "Texas",
+        "shortText": "TX",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "languageCode": "en"
+      },
+      {
+        "longText": "United States",
+        "shortText": "US",
+        "types": [
+          "country",
+          "political"
+        ],
+        "languageCode": "en"
+      },
+      {
+        "longText": "75231",
+        "shortText": "75231",
+        "types": [
+          "postal_code"
+        ],
+        "languageCode": "en-US"
+      }
+    ],
+    "plusCode": {
+      "globalCode": "8645V6HM+PC",
+      "compoundCode": "V6HM+PC Dallas, TX, USA"
+    },
+    "location": {
+      "latitude": 32.879312,
+      "longitude": -96.766467999999989
+    },
+    "viewport": {
+      "low": {
+        "latitude": 32.8780947197085,
+        "longitude": -96.7678324802915
+      },
+      "high": {
+        "latitude": 32.8807926802915,
+        "longitude": -96.7651345197085
+      }
+    },
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=401828375688795626",
+    "websiteUri": "http://jchestercpa.com/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "utcOffsetMinutes": -300,
+    "adrFormatAddress": "\u003cspan class=\"street-address\"\u003e8140 Walnut Hill Ln #430\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDallas\u003c/span\u003e, \u003cspan class=\"region\"\u003eTX\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e75231\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 93,
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "iconBackgroundColor": "#7B9EB0",
+    "displayName": {
+      "text": "J Chester & Associates, Inc Dallas CPA Firm",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "Consultant",
+      "languageCode": "en-US"
+    },
+    "currentOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 1,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 7,
+              "day": 8
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 17,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 7,
+              "day": 8
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 7,
+              "day": 2
+            }
+          },
+          "close": {
+            "day": 2,
+            "hour": 17,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 7,
+              "day": 2
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 7,
+              "day": 3
+            }
+          },
+          "close": {
+            "day": 3,
+            "hour": 17,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 7,
+              "day": 3
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 7,
+              "day": 4
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 17,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 7,
+              "day": 4
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 7,
+              "day": 5
+            }
+          },
+          "close": {
+            "day": 5,
+            "hour": 17,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 7,
+              "day": 5
+            }
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "primaryType": "consultant",
+    "shortFormattedAddress": "8140 Walnut Hill Ln #430, Dallas",
+    "reviews": [
+      {
+        "name": "places/ChIJLWThwA6iToYR6lWaWceUkwU/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5blkyZ2JREAE",
+        "relativePublishTimeDescription": "3 months ago",
+        "rating": 5,
+        "text": {
+          "text": "The team at Jon Chester & Associates gets the job done!  They are helpful and responsive. Only doing this once a year - they often have to repeat things to me..and they are always ready to support.   It's been 9-10 years working with them.   It isn't cheap. Yes, you can do turbo tax or totally on your own, but their expertise and taking this 'off-your-plate' to me is worth the investment.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "The team at Jon Chester & Associates gets the job done!  They are helpful and responsive. Only doing this once a year - they often have to repeat things to me..and they are always ready to support.   It's been 9-10 years working with them.   It isn't cheap. Yes, you can do turbo tax or totally on your own, but their expertise and taking this 'off-your-plate' to me is worth the investment.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Dan B.",
+          "uri": "https://www.google.com/maps/contrib/108817962261901649331/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLIt4Cy_zRoKnt0AwpixswLYGdsq6qDPqERdrjvWPacwXkS=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-03-08T15:13:04Z"
+      },
+      {
+        "name": "places/ChIJLWThwA6iToYR6lWaWceUkwU/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5NmJmbW1BRRAB",
+        "relativePublishTimeDescription": "3 months ago",
+        "rating": 5,
+        "text": {
+          "text": "J Chester & Associates have handled our tax returns for several years and have always done a fantastic job. Utilizing SmartVault to upload any and all documents is a fast and easy way to provide them with our information to prepare our return.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "J Chester & Associates have handled our tax returns for several years and have always done a fantastic job. Utilizing SmartVault to upload any and all documents is a fast and easy way to provide them with our information to prepare our return.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Monette Harbert",
+          "uri": "https://www.google.com/maps/contrib/100055557887277333242/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJEq3D_CVXZEoTNHhqEPeCeRp6kETrTPPacDZi9h5GKiz2YGA=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-03-18T13:55:45Z"
+      },
+      {
+        "name": "places/ChIJLWThwA6iToYR6lWaWceUkwU/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5N3ZtaVFREAE",
+        "relativePublishTimeDescription": "3 months ago",
+        "rating": 5,
+        "text": {
+          "text": "Jon Chester and his firm are a pleasure to work with.  Jon has been doing my taxes for many years and he is great to work with.  I highly recommend his CPA Firm.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Jon Chester and his firm are a pleasure to work with.  Jon has been doing my taxes for many years and he is great to work with.  I highly recommend his CPA Firm.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Celeste Ellis",
+          "uri": "https://www.google.com/maps/contrib/100489009572574660367/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLf1Nh5ZfIkyOkMFMABJ33CnPtoeWBoLqlNFnjvfZlShlnKOQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-03-17T02:07:30Z"
+      },
+      {
+        "name": "places/ChIJLWThwA6iToYR6lWaWceUkwU/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5NHV2SzdRRRAB",
+        "relativePublishTimeDescription": "3 months ago",
+        "rating": 5,
+        "text": {
+          "text": "Great service and very professional from all the staff thank you very much. I would have no problem with referring these guys J Chester & Associates, Inc Dallas  to my friends and family.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Great service and very professional from all the staff thank you very much. I would have no problem with referring these guys J Chester & Associates, Inc Dallas  to my friends and family.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Russell Pattinson",
+          "uri": "https://www.google.com/maps/contrib/111396731877487680013/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVbzSe3Eu0Y_S_YNkbzAcK2OrdYH-3wxrD1KFSS1d_Oa6ts0Pe-=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-03-14T22:05:53Z"
+      },
+      {
+        "name": "places/ChIJLWThwA6iToYR6lWaWceUkwU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNseW9TbkJnEAE",
+        "relativePublishTimeDescription": "7 months ago",
+        "rating": 5,
+        "text": {
+          "text": "I've been a client for 16 years and I've always been provided with thoughtful advice, industry knowledge, and an insight into changing laws and best practices.  I am both a business client (multiple at one time) and personal client and have received CPA, bookkeeping, and consulting services and have always been happy working with J Chester & Associates.  Through the pandemic, PPP, EIDL, ERTC the staff at J Chester & Associates helped me navigate the everchanging rules and regulations which allowed me to continue to run a profitable business today.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "I've been a client for 16 years and I've always been provided with thoughtful advice, industry knowledge, and an insight into changing laws and best practices.  I am both a business client (multiple at one time) and personal client and have received CPA, bookkeeping, and consulting services and have always been happy working with J Chester & Associates.  Through the pandemic, PPP, EIDL, ERTC the staff at J Chester & Associates helped me navigate the everchanging rules and regulations which allowed me to continue to run a profitable business today.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Sean Teele",
+          "uri": "https://www.google.com/maps/contrib/101546957012900890327/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJoYKcyIgAq9lYZQj8qv6nBUz2sk8PE-c_wYkaDaCibcrBQZg=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2023-11-15T19:49:33Z"
+      }
+    ],
+    "photos": [
+      {
+        "name": "places/ChIJLWThwA6iToYR6lWaWceUkwU/photos/AUc7tXWgw-iG0-VgwFYDhN-rKiIiN4aWXjLxvMhg0-Xcv3D1M8YmGqANz416ZdzrgbKSXHe1HaPZnwhDRGfgs56LVVyUuIongQZBq_kfHfjjfUUmjMPb9vHIeH8nuqKw0AHu3mLuDtzoug3veuHEL815kAJfNqATBaTWEoA",
+        "widthPx": 2528,
+        "heightPx": 1244,
+        "authorAttributions": [
+          {
+            "displayName": "J Chester & Associates, Inc Dallas CPA Firm",
+            "uri": "//maps.google.com/maps/contrib/107993499427069857281",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTonWeLry_sADpCDm-GcjkzXli0yDGPetj3lz41uVOvp_pTBg=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJLWThwA6iToYR6lWaWceUkwU/photos/AUc7tXXjxfSM1vsoyQ4lsu82tnqJPegnfxgZ-4vqxBbHDrmr2uvQXgLpAvzwyyDIhWQjuSnKbL_PQFE6HmVDbowijbhHw_NKc_5cZUZ7R34hQtv_93dDObm-QZa5Ms_tfh5Uhjxn1b2fPPvA86-UQcAw0JbKbAcDFY8ByRg",
+        "widthPx": 1300,
+        "heightPx": 435,
+        "authorAttributions": [
+          {
+            "displayName": "J Chester & Associates, Inc Dallas CPA Firm",
+            "uri": "//maps.google.com/maps/contrib/107993499427069857281",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTonWeLry_sADpCDm-GcjkzXli0yDGPetj3lz41uVOvp_pTBg=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJLWThwA6iToYR6lWaWceUkwU/photos/AUc7tXVgHXAgAUpkDgAH6z-24iV77LV4mtyb4aTWNqCtuZvTA1zBI-3x35w1wjbxMGhqTxAVUQyzMmbR2IDcwKyRFM0D318M0gtEa9yW9Vynng2Z0U9aASqfRC_Efn9UmCyx6tALPISYSVUGVHN4m5ABdptHg9WTH130D44",
+        "widthPx": 504,
+        "heightPx": 335,
+        "authorAttributions": [
+          {
+            "displayName": "J Chester & Associates, Inc Dallas CPA Firm",
+            "uri": "//maps.google.com/maps/contrib/107993499427069857281",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTonWeLry_sADpCDm-GcjkzXli0yDGPetj3lz41uVOvp_pTBg=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJLWThwA6iToYR6lWaWceUkwU/photos/AUc7tXW4_Qf9ospw0riQikDHyr8OkPk-Z1c41S4xAcHLaKo3Sw6W1_UwS5ttTbEyejPnvxmALderU4oHxzaahgx7ry4d1EeC-9e3mTVVxstg14f8XADgLorTHVx_A1ii2gpA9GTD2qppPSr25L0sBYqmMhjBRTFWvEPJvz0",
+        "widthPx": 475,
+        "heightPx": 315,
+        "authorAttributions": [
+          {
+            "displayName": "J Chester & Associates, Inc Dallas CPA Firm",
+            "uri": "//maps.google.com/maps/contrib/107993499427069857281",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTonWeLry_sADpCDm-GcjkzXli0yDGPetj3lz41uVOvp_pTBg=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJLWThwA6iToYR6lWaWceUkwU/photos/AUc7tXUbPtqcVSLGPkxTpSzoaahcMRbb4y40glKszwrclL0rN2Cgjv6snWe88hDiEOVCeOPTLD7bao4FHWqYEZN_F6J7wmp-x6wsyk98G6V_CS5dCljkbMlIOiHZB5VVys1exl2_TgxZY8PBJvSo3AL2VBIG8PyKNkTCkeM",
+        "widthPx": 728,
+        "heightPx": 409,
+        "authorAttributions": [
+          {
+            "displayName": "J Chester & Associates, Inc Dallas CPA Firm",
+            "uri": "//maps.google.com/maps/contrib/107993499427069857281",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTonWeLry_sADpCDm-GcjkzXli0yDGPetj3lz41uVOvp_pTBg=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJLWThwA6iToYR6lWaWceUkwU/photos/AUc7tXWUftBQ9YeE_Hatxg5z90b10omUeYy5T6IZo0DT3v7FUc2999Hj9AO0Q3M-_WcDETj-fDk-I7WWHN6elmd-xyld6npj2YzKGsVYCbbIhZac4aNWD06lbXi4NZvjpnvYlKRyEsdpQacQLphAvklujCSCRFbBmGVGJR0",
+        "widthPx": 640,
+        "heightPx": 330,
+        "authorAttributions": [
+          {
+            "displayName": "J Chester & Associates, Inc Dallas CPA Firm",
+            "uri": "//maps.google.com/maps/contrib/107993499427069857281",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTonWeLry_sADpCDm-GcjkzXli0yDGPetj3lz41uVOvp_pTBg=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJLWThwA6iToYR6lWaWceUkwU/photos/AUc7tXUa-kkkqBYapkir6gWqivE-bX6IVIwJnS2u-FiiPn_yAbmnJzmhcdd_rOVARcMwjGsj7VrC7gSdvhOiKhk3okrPkGw2LDtrw3WvXTAU4OZA2wM6EvPCUqzsn2j5Y-DjnZ4rfBsbm9nDgMisvYRzJQgVvrYmlGPLJYg",
+        "widthPx": 504,
+        "heightPx": 335,
+        "authorAttributions": [
+          {
+            "displayName": "J Chester & Associates, Inc Dallas CPA Firm",
+            "uri": "//maps.google.com/maps/contrib/107993499427069857281",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTonWeLry_sADpCDm-GcjkzXli0yDGPetj3lz41uVOvp_pTBg=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJLWThwA6iToYR6lWaWceUkwU/photos/AUc7tXW_G3YyymwPqG9K9XMNWdWzewJrSd3_PTzekztN2mNsyGd8WZlMlFd-YctHdID8kO53lHBzheS0UrUajYHbM251en2F_Lg69DkMxpH-5ycV8MuzNT7RaCG5oIwxiQvBruTnrqQuXcVYNIDZvR7RZnE3qL-8ZrH_fWk",
+        "widthPx": 770,
+        "heightPx": 511,
+        "authorAttributions": [
+          {
+            "displayName": "J Chester & Associates, Inc Dallas CPA Firm",
+            "uri": "//maps.google.com/maps/contrib/107993499427069857281",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTonWeLry_sADpCDm-GcjkzXli0yDGPetj3lz41uVOvp_pTBg=s100-p-k-no-mo"
+          }
+        ]
+      }
+    ],
+    "restroom": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "generativeSummary": {
+      "overview": {
+        "text": "Certified public accounting firm offering a range of tax, bookkeeping and financial services.",
+        "languageCode": "en-US"
+      }
+    }
+  }
+  
